@@ -39,7 +39,7 @@ Crear el esquema de entidad / relación que permita gestionar los datos sobre la
 
 ### Modelo relacional
 
-Cliente (<u>DNI</u>, Nombre, Apellidos, CP, Móvil, Fijo)</br>
+Cliente (-DNI, Nombre, Apellidos, CP, Móvil, Fijo)</br>
 Vendedor (</u>DNI (FK Cliente), Nombre (FK Cliente), Apellidos (FK Cliente), CP (FK Cliente), Móvil (FK Cliente), Fijo (FK Cliente))</br>
 Comprar (<u>CódigoCompra</u>, FechaCompra, ValorCompra)</br>
 Alquilar (<u>CódigoAlquiler</u>, FechaPago, Valor)</br>
