@@ -2,11 +2,13 @@
 
 
 
+## Ejercicio 3 Geografía
 
 
+Crear un diseño entidad relación que permita almacenar datos geográficos referidos a España.
 
 
-
+![ej3 drawio](https://user-images.githubusercontent.com/19403472/164406181-4353e789-aad1-444c-87cc-ab2b24001e10.png)
 
 
 
