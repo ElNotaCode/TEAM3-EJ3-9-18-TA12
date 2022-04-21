@@ -20,7 +20,7 @@ Crear un diseño entidad relación que permita almacenar datos geográficos refe
 Crear el esquema de entidad / relación que permita gestionar los datos sobre la preparación de recetas de cocina
 
 
-![Recetas-Page-2](https://user-images.githubusercontent.com/99056015/164423725-482f750a-0cb8-41ef-9cd5-2e8e04251f4f.jpeg)
+![Recetas-entidad-relacion](https://user-images.githubusercontent.com/99056015/164423853-1a0e32de-7282-4a51-93ab-7310db03b5ec.jpeg)
 
 
 
