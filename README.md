@@ -12,14 +12,17 @@ Crear un diseño entidad relación que permita almacenar datos geográficos refe
 ![ej3-Esquema Relacional drawio](https://user-images.githubusercontent.com/19403472/164429365-0e3086e7-6356-4bc8-81fa-ba1348164b9e.png)
 
 
-## Ejercicio 9 Recetas de Cocina!![Uploading ej3-Diagrama ER.drawio.png…]()
+## Ejercicio 9 Recetas de Cocina!!
 
 
 
 Crear el esquema de entidad / relación que permita gestionar los datos sobre la preparación de recetas de cocina
 
 
-![Recetas-entidad-relacion](https://user-images.githubusercontent.com/99056015/164424016-96f3ef8c-569c-47ed-9049-97c11a8a683e.jpeg)
+![Recetas-entidad-relacion](https://user-images.githubusercontent.com/99056015/164432861-9d21d2e2-12c5-4ff3-84ad-0bc6265231c1.jpeg)
+
+
+![Recetas-modelo relacional](https://user-images.githubusercontent.com/99056015/164432960-e8640592-22b4-41f6-a623-bf345e584b41.jpeg)
 
 
 
@@ -36,13 +39,13 @@ Crear el esquema de entidad / relación que permita gestionar los datos sobre la
 
 ### Modelo relacional
 
-Cliente (<u>DNI</u>, Nombre, Apellidos, CP, Móvil, Fijo)
-Vendedor (</u>DNI (FK Cliente), Nombre (FK Cliente), Apellidos (FK Cliente), CP (FK Cliente), Móvil (FK Cliente), Fijo (FK Cliente))
-Comprar (<u>CódigoCompra</u>, FechaCompra, ValorCompra)
-Alquilar (<u>CódigoAlquiler</u>, FechaPago, Valor)
-Inmueble (<u>CódigoInmueble</u>, Dirección, Descripción, m2)
-Inmobiliaria (<u>ID</u>)
-Anunciar (<u>CódigoInmueble (FK Inmueble), ID_Inmobiliaria (FK Inmobiliaria)</u>)
-Piso (<u>CódigoPiso</u>)
-Local (<u>ID_Local</u>, Uso, Servicio)
-Garaje (<u>NumGaraje</u>, Planta)
+Cliente (<u>DNI</u>, Nombre, Apellidos, CP, Móvil, Fijo)</br>
+Vendedor (</u>DNI (FK Cliente), Nombre (FK Cliente), Apellidos (FK Cliente), CP (FK Cliente), Móvil (FK Cliente), Fijo (FK Cliente))</br>
+Comprar (<u>CódigoCompra</u>, FechaCompra, ValorCompra)</br>
+Alquilar (<u>CódigoAlquiler</u>, FechaPago, Valor)</br>
+Inmueble (<u>CódigoInmueble</u>, Dirección, Descripción, m2)</br>
+Inmobiliaria (<u>ID</u>)</br>
+Anunciar (<u>CódigoInmueble (FK Inmueble), ID_Inmobiliaria (FK Inmobiliaria)</u>)</br>
+Piso (<u>CódigoPiso</u>)</br>
+Local (<u>ID_Local</u>, Uso, Servicio)</br>
+Garaje (<u>NumGaraje</u>, Planta)</br>
