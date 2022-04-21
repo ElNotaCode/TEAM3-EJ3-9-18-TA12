@@ -34,7 +34,7 @@ Crear el esquema de entidad / relación que permita gestionar los datos sobre la
 
 ![EntidadRelacion](https://user-images.githubusercontent.com/71872946/164405189-d414176c-0bde-4321-a326-842c8df2bc65.JPG)
 
-Modelo relacional
+### Modelo relacional
 
 Cliente (<u>DNI</u>, Nombre, Apellidos, CP, Móvil, Fijo)
 Vendedor (</u>DNI (FK Cliente), Nombre (FK Cliente), Apellidos (FK Cliente), CP (FK Cliente), Móvil (FK Cliente), Fijo (FK Cliente))
