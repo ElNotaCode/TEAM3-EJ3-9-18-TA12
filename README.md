@@ -7,9 +7,9 @@
 
 Crear un diseño entidad relación que permita almacenar datos geográficos referidos a España.
 
-![ej3-Esquema Relacional drawio](https://user-images.githubusercontent.com/19403472/164485405-f1fb76df-5593-424b-8e8a-1c1105b0e931.png)
-
 ![ej3-Diagrama ER drawio](https://user-images.githubusercontent.com/19403472/164485415-3574c1ba-195f-48d0-833a-3e3999a8588f.png)
+
+![ej3-Esquema Relacional drawio](https://user-images.githubusercontent.com/19403472/164485405-f1fb76df-5593-424b-8e8a-1c1105b0e931.png)
 
 ## Ejercicio 9 Recetas de Cocina!!
 
