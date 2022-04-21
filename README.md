@@ -28,9 +28,6 @@ Crear el esquema de entidad / relación que permita gestionar los datos sobre la
 
 
 
-
-
-
 ## Ejercicio 18 Inmobiliaria
 
 Crear el esquema de entidad / relación que permita gestionar los datos sobre la compra/alquiler de inmuebles a través de una inmobiliaria
@@ -39,10 +36,10 @@ Crear el esquema de entidad / relación que permita gestionar los datos sobre la
 
 ### Modelo relacional
 
-Cliente (<u>DNI</u>,, Nombre, Apellidos, CP, Móvil, Fijo)</br>
-Vendedor (<u>DNI (FK Cliente)</u>,, Nombre (FK Cliente), Apellidos (FK Cliente), CP (FK Cliente), Móvil (FK Cliente), Fijo (FK Cliente))</br>
-Comprar (<u>CódigoCompra</u>, FechaCompra, ValorCompra)</br>
-Alquilar (<u>CódigoAlquiler</u>, FechaPago, Valor)</br>
+Cliente (**"DNI"**, Nombre, Apellidos, CP, Móvil, Fijo)</br>
+Vendedor (**"DNI"** (FK Cliente), Nombre (FK Cliente), Apellidos (FK Cliente), CP (FK Cliente), Móvil (FK Cliente), Fijo (FK Cliente))</br>
+Comprar (**"CódigoCompra"**, FechaCompra, ValorCompra)</br>
+Alquilar (**"CódigoAlquiler"**, FechaPago, Valor)</br>
 Inmueble (<u>CódigoInmueble</u>, Dirección, Descripción, m2)</br>
 Inmobiliaria (<u>ID</u>)</br>
 Anunciar (<u>CódigoInmueble (FK Inmueble), ID_Inmobiliaria (FK Inmobiliaria)</u>)</br>
