@@ -33,3 +33,16 @@ Crear el esquema de entidad / relación que permita gestionar los datos sobre la
 Crear el esquema de entidad / relación que permita gestionar los datos sobre la compra/alquiler de inmuebles a través de una inmobiliaria
 
 ![EntidadRelacion](https://user-images.githubusercontent.com/71872946/164405189-d414176c-0bde-4321-a326-842c8df2bc65.JPG)
+
+Modelo relacional
+
+Cliente (<u>DNI</u>, Nombre, Apellidos, CP, Móvil, Fijo)
+Vendedor (</u>DNI (FK Cliente), Nombre (FK Cliente), Apellidos (FK Cliente), CP (FK Cliente), Móvil (FK Cliente), Fijo (FK Cliente))
+Comprar (<u>CódigoCompra</u>, FechaCompra, ValorCompra)
+Alquilar (<u>CódigoAlquiler</u>, FechaPago, Valor)
+Inmueble (<u>CódigoInmueble</u>, Dirección, Descripción, m2)
+Inmobiliaria (<u>ID</u>)
+Anunciar (<u>CódigoInmueble (FK Inmueble), ID_Inmobiliaria (FK Inmobiliaria)</u>)
+Piso (<u>CódigoPiso</u>)
+Local (<u>ID_Local</u>, Uso, Servicio)
+Garaje (<u>NumGaraje</u>, Planta)
