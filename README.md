@@ -7,8 +7,7 @@
 
 Crear un diseño entidad relación que permita almacenar datos geográficos referidos a España.
 
-
-![ej3 drawio](https://user-images.githubusercontent.com/19403472/164406181-4353e789-aad1-444c-87cc-ab2b24001e10.png)
+![ej3-Diagrama ER drawio](https://user-images.githubusercontent.com/19403472/164429168-3c606555-6238-4b9f-b9a6-de652fa77c6e.png)
 
 
 
