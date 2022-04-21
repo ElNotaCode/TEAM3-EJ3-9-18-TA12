@@ -40,9 +40,9 @@ Cliente (**"DNI"**, Nombre, Apellidos, CP, Móvil, Fijo)</br>
 Vendedor (**"DNI"** (FK Cliente), Nombre (FK Cliente), Apellidos (FK Cliente), CP (FK Cliente), Móvil (FK Cliente), Fijo (FK Cliente))</br>
 Comprar (**"CódigoCompra"**, FechaCompra, ValorCompra)</br>
 Alquilar (**"CódigoAlquiler"**, FechaPago, Valor)</br>
-Inmueble (<u>CódigoInmueble</u>, Dirección, Descripción, m2)</br>
-Inmobiliaria (<u>ID</u>)</br>
-Anunciar (<u>CódigoInmueble (FK Inmueble), ID_Inmobiliaria (FK Inmobiliaria)</u>)</br>
-Piso (<u>CódigoPiso</u>)</br>
-Local (<u>ID_Local</u>, Uso, Servicio)</br>
-Garaje (<u>NumGaraje</u>, Planta)</br>
+Inmueble (**"CódigoInmueble"**, Dirección, Descripción, m2)</br>
+Inmobiliaria (**"ID"**)</br>
+Anunciar (**"CódigoInmueble (FK Inmueble), ID_Inmobiliaria (FK Inmobiliaria)"**)</br>
+Piso (**"CódigoPiso"**)</br>
+Local (**"ID_Local"**, Uso, Servicio)</br>
+Garaje (**"NumGaraje"**, Planta)</br>
