@@ -17,14 +17,13 @@
 
 Crear el esquema de entidad / relación que permita gestionar los datos sobre la preparación de recetas de cocina
 
-[Recetas-Page-2 drawio](https://user-images.githubusercontent.com/99056015/164403492-dee9cd59-2f14-409f-8001-1b036b0aee8e.png)
+
+![Recetas-Page-2](https://user-images.githubusercontent.com/99056015/164405673-22d1645d-3616-4d1f-8f83-00a18d704418.jpeg)
 
 
 
 
 
-
-Link : https://drive.google.com/file/d/1BYgGFW9h5cHqG1_kkGIp9iEBQ-ZEFOW3/view?usp=sharing
 
 
 
