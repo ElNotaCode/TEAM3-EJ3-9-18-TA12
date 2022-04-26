@@ -48,3 +48,11 @@ Garaje (**"NumGaraje"**, Planta)</br>
 
 ![select sql](https://user-images.githubusercontent.com/71872946/165279518-e050505c-4694-4612-a867-28617fac1753.jpg)
 
+### Reverse Engineer
+
+![reverseEng](https://user-images.githubusercontent.com/71872946/165281770-04684c7c-84f6-4b68-8b77-5e5645c5edd7.jpg)
+
+### Creación de las tablas
+
+![creacionTablas](https://user-images.githubusercontent.com/71872946/165281823-37a48f0a-37e1-4894-a2bd-9e7ba55bcaf8.jpg)
+
