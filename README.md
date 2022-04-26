@@ -29,7 +29,7 @@ Crear el esquema de entidad / relación que permita gestionar los datos sobre la
 
 Crear el esquema de entidad / relación que permita gestionar los datos sobre la compra/alquiler de inmuebles a través de una inmobiliaria
 
-![EntidadRelacion](https://user-images.githubusercontent.com/71872946/164405189-d414176c-0bde-4321-a326-842c8df2bc65.JPG)
+![EntidadRelacion](https://user-images.githubusercontent.com/71872946/165282231-c8a70678-7b1c-4d00-8388-2e018e1c35fa.JPG)
 
 ### Modelo relacional
 
