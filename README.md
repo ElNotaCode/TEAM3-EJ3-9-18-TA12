@@ -43,3 +43,8 @@ Anunciar (**"CódigoInmueble (FK Inmueble), ID_Inmobiliaria (FK Inmobiliaria)"**
 Piso (**"CódigoPiso"**)</br>
 Local (**"ID_Local"**, Uso, Servicio)</br>
 Garaje (**"NumGaraje"**, Planta)</br>
+
+### Capturas de las select del SQL
+
+![select sql](https://user-images.githubusercontent.com/71872946/165279518-e050505c-4694-4612-a867-28617fac1753.jpg)
+
